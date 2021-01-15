@@ -1,4 +1,4 @@
-# viracuda
+# Viracuda
 Viral Automated Curation of Datasets
 
 #----------
